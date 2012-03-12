@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "homepage": "http://github.com/rawg/json-config",
   "repository": {
-    "url": ""
+    "url": "git://github.com/rawg/json-config.git"
   },
   "main": "lib/json-config.js",
   "engines": {
