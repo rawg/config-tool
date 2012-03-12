@@ -1,0 +1,15 @@
+{
+  "author": "Jeremy Fisher <jeremy@rentawebgeek.com>",
+  "name": "json-config",
+  "description": "Simple configuration management through JSON files with comments",
+  "version": "0.0.1",
+  "homepage": "http://github.com/rawg/json-config",
+  "repository": {
+    "url": ""
+  },
+  "main": "lib/json-config.js",
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "dependencies": {}
+}
