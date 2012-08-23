@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/rawg/config-tool.png)](http://travis-ci.org/rawg/config-tool)
 # json-config
 There are a lot of configuration tools for Node, but this one has some differentiating features.
 
